@@ -1,0 +1,10 @@
+# local machine config (never commit your own paths)
+config.ps1
+
+# runtime artifacts produced by a running campaign
+state.txt
+ledger.csv
+runner.log
+guardian.log
+FOUND.flag
+_chunk_out.txt
